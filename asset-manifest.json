@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf414c92.css",
+    "main.js": "/static/js/main.dd36495b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ferrometals-preview-image.png": "/static/media/ferrometals-preview-image.4ed3ecc249fe3307d19a.png",
+    "static/media/app-photo.jpg": "/static/media/app-photo.229ab3f06634bdaef822.jpg",
+    "static/media/cv-preview-image.png": "/static/media/cv-preview-image.7085db5e38568fdea555.png",
+    "static/media/cv_smyrnova_iryna.pdf": "/static/media/cv_smyrnova_iryna.cb93d84b41113ebf1e61.pdf",
+    "index.html": "/index.html",
+    "main.bf414c92.css.map": "/static/css/main.bf414c92.css.map",
+    "main.dd36495b.js.map": "/static/js/main.dd36495b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf414c92.css",
+    "static/js/main.dd36495b.js"
+  ]
+}
